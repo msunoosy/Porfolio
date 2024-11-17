@@ -1,6 +1,3 @@
-
-import React from 'react'
-
 function ProjectCard({src,h3,p}) {
   return (
      <a href="">
