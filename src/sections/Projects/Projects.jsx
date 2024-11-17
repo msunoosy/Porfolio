@@ -1,6 +1,6 @@
 import styles from "./ProjectStyles.module.css";
 import Viberr from "../../assets/viberr.png";
-import ProjectCard from "../../common/projectCard";
+import ProjectCard from "../../common/ProjectCard"
 import Freshburger from "../../assets/fresh-burger.png";
 import Hipster from "../../assets/hipsster.png";
 import Fitness from "../../assets/fitlift.png";
